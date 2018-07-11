@@ -18,6 +18,14 @@ date_format:
 # Language
 lan: "en" 
 
+comment:
+        disqus: buyizhiyou
+# Disqus
+discus-identifier: buyizhiyou # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
 paginate: 10
 
 highlighter: rouge
