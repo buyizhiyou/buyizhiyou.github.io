@@ -3,8 +3,8 @@ layout: post
 title:  "The past"
 date:   2017-7-11 23:45:15 +0800
 categories: acgnmm
-tags: thinking
-description: motto.
+tags: novel
+description: The past is never dead.
 ---
 “The past is never dead. It’s not even past.”  
 “过去永远不会死，它甚至还没有过去。”  
