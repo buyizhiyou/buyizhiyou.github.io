@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>buyizhiyou</title>
-		<description>Welcome to buyizhiyou！</description>
+		<title>风丶停息了吗</title>
+		<description>蓦然雪化，且静候飞雪再临之时</description>
 		<link>http://localhost:5000</link>
 		<atom:link href="http://localhost:5000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Stormheim</title>
+				<description>&lt;p&gt;wow,风暴峡湾，泣风崖&lt;br /&gt;
+做任务，峡谷中响起悠远清澈的风笛声，呆呆听了半天&lt;br /&gt;
+sotrmheim,加入歌单。&lt;br /&gt;
+风笛——&lt;/p&gt;
+</description>
+				<pubDate>Sat, 31 Mar 2018 14:10:51 +0800</pubDate>
+				<link>http://localhost:5000/acgnmm/2018/03/31/Stormheim.html</link>
+				<guid isPermaLink="true">http://localhost:5000/acgnmm/2018/03/31/Stormheim.html</guid>
+			</item>
+		
+			<item>
+				<title>Gone with the wind</title>
+				<description>&lt;p&gt;改编自玛格丽特·米切尔小说《飘》&lt;br /&gt;
+费雯·丽  　&lt;br /&gt;
+瑞德，真男人&lt;/p&gt;
+</description>
+				<pubDate>Tue, 21 Nov 2017 19:10:25 +0800</pubDate>
+				<link>http://localhost:5000/acgnmm/2017/11/21/Gone-with-the-wind.html</link>
+				<guid isPermaLink="true">http://localhost:5000/acgnmm/2017/11/21/Gone-with-the-wind.html</guid>
+			</item>
+		
+			<item>
+				<title>The past</title>
+				<description>&lt;p&gt;“The past is never dead. It’s not even past.”&lt;br /&gt;
+“过去永远不会死，它甚至还没有过去。”&lt;br /&gt;
+－－福克纳，1951，《修女安魂曲》（Requiem for a Nun）&lt;/p&gt;
+</description>
+				<pubDate>Tue, 11 Jul 2017 23:45:15 +0800</pubDate>
+				<link>http://localhost:5000/acgnmm/2017/07/11/The-past.html</link>
+				<guid isPermaLink="true">http://localhost:5000/acgnmm/2017/07/11/The-past.html</guid>
+			</item>
+		
+			<item>
+				<title>acgnmm</title>
+				<description>&lt;h3 id=&quot;这个分类来记录关于acgnmm吧&quot;&gt;这个分类来记录关于ACGNMM吧！&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;animation(动漫),comic(漫画),game(游戏),novel(小说),movie(电影),music(音乐)!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;　　很久之前－－或许就一年前－－并不喜欢看动漫。16年底发生了一些事情，感到很失落很无助。想念一个人，偶然看到一个短视频，是cl2中冈崎朋也和汐的AMV，bgm是樱花樱花想见你。然后就是想把这部番追完，之后又补完key社的Air和Kanon。这都是大四下学期的事情，这段时间看得大都是治愈番，当然出于一直对日本战国和幕末这两段历史的喜欢，也看了很多相关的热血番，战国basara,战国无双，新撰组，薄樱鬼，银魂之类，当然其他的泡面番和回味童年的动漫也有看。回过头想想，一年看了有近百部动漫。有时候中午上班休息或者晚上在公司看动漫时，同事会以为我是一个二次元死宅，但我不属于二次元，将来也不会，只是比较喜欢动漫中的那份干净而已。&lt;br /&gt;
+　　关于游戏，大学里面一直玩联盟，但玩多了就不想玩了，我不知道为什么对这个游戏现在有既爱且恨的感觉,有时还会上号玩玩，但感觉又很没意思。现在下班回来刷刷单机，有时候无聊玩玩csgo,　或者去艾泽拉斯保卫联盟。记录一下游戏中有趣的画面和故事吧。&lt;br /&gt;
+　　关于小说，以前武侠，金古梁温之类的书，或者历史类小说，或者一些其他的网文，不过大网文都是一个套路，没什么好看的。16年底读冰火，开始接触奇幻，读魔戒，渡鸦之影，第一律法，弑君者传奇，猎魔人等。严肃文学和通俗文学，或许该读一下世界名著之类??&lt;br /&gt;
+　　关于电影，用两个小时去讲一个故事，声与影的艺术。历史，史诗，武侠，中世纪，纪实(有些纪录片挺好看的),西部，魔幻。最近发现看一些名著改编的也不错，科幻也不错吧？？不喜欢特效流，但偶尔看一下还是很爽的，漫威，DC，我想起来高中看的终结者。喜欢那些安静的去讲一个故事，但对青春爱情这一类很无感，为何??哦，对了，吴宇森的暴力美学(教堂，白鸽，风衣，飞溅的血)，王家卫的镜头语言，王晶的赌片，喜剧和三级片，杜琪峰的警匪片，徐克的江湖与武侠，这些香港电影布满了年少的回忆。&lt;br /&gt;
+　　关于音乐，2016年暑假八月份开始，每晚都要听着歌才能睡着，自此养成睡觉时歌总要放一夜的习惯。所以2017年网易云年末统计一年听了1700多小时。古典何必歧视流行？纯音乐何必歧视带歌词的?电音何必歧视dj摇滚??音符在二维空间上的运动，引起你内心的共鸣，有何高低贵贱之分?合适的时间，合适的心情，与合适的人，去听首合适的歌吧!&lt;/p&gt;
+</description>
+				<pubDate>Wed, 10 May 2017 14:10:51 +0800</pubDate>
+				<link>http://localhost:5000/acgnmm/2017/05/10/acgnmm.html</link>
+				<guid isPermaLink="true">http://localhost:5000/acgnmm/2017/05/10/acgnmm.html</guid>
+			</item>
 		
 			<item>
 				<title>Welcome to buyizhiyou!</title>
@@ -23,94 +73,9 @@
 &lt;p&gt;Check out the &lt;a href=&quot;https://buyizhiyourb.com/docs/home&quot;&gt;buyizhiyou docs&lt;/a&gt; for more info on how to get the most out of buyizhiyou. File all bugs/feature requests at &lt;a href=&quot;https://github.com/buyizhiyou/buyizhiyou&quot;&gt;buyizhiyou’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.buyizhiyourb.com/&quot;&gt;buyizhiyou Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-				<pubDate>Tue, 05 Sep 2017 14:10:51 +0800</pubDate>
-				<link>http://localhost:5000/buyizhiyou/2017/09/05/welcome-to-buyizhiyou.html</link>
-				<guid isPermaLink="true">http://localhost:5000/buyizhiyou/2017/09/05/welcome-to-buyizhiyou.html</guid>
-			</item>
-		
-			<item>
-				<title>Another copy of the Readme of Jekyll!</title>
-				<description>&lt;h1 id=&quot;jekyll&quot;&gt;&lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://rubygems.org/gems/jekyll&quot;&gt;&lt;img src=&quot;https://img.shields.io/gem/v/jekyll.svg&quot; alt=&quot;Gem Version&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://travis-ci.org/jekyll/jekyll&quot;&gt;&lt;img src=&quot;https://img.shields.io/travis/jekyll/jekyll/master.svg?label=Linux%20build&quot; alt=&quot;Linux Build Status&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://ci.appveyor.com/project/jekyll/jekyll/branch/master&quot;&gt;&lt;img src=&quot;https://img.shields.io/appveyor/ci/jekyll/jekyll/master.svg?label=Windows%20build&quot; alt=&quot;Windows Build status&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://codeclimate.com/github/jekyll/jekyll/coverage&quot;&gt;&lt;img src=&quot;https://img.shields.io/codeclimate/coverage/github/jekyll/jekyll.svg&quot; alt=&quot;Test Coverage&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://codeclimate.com/github/jekyll/jekyll&quot;&gt;&lt;img src=&quot;https://img.shields.io/codeclimate/github/jekyll/jekyll.svg&quot; alt=&quot;Code Climate&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://gemnasium.com/jekyll/jekyll&quot;&gt;&lt;img src=&quot;https://img.shields.io/gemnasium/jekyll/jekyll.svg&quot; alt=&quot;Dependency Status&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://hakiri.io/github/jekyll/jekyll/master&quot;&gt;&lt;img src=&quot;https://hakiri.io/github/jekyll/jekyll/master.svg&quot; alt=&quot;Security&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt;, which you can use to host sites right from your GitHub repositories.&lt;/p&gt;
-
-&lt;h2 id=&quot;philosophy&quot;&gt;Philosophy&lt;/h2&gt;
-
-&lt;p&gt;Jekyll does what you tell it to do — no more, no less. It doesn’t try to outsmart users by making bold assumptions, nor does it burden them with needless complexity and configuration. Put simply, Jekyll gets out of your way and allows you to concentrate on what truly matters: your content.&lt;/p&gt;
-
-&lt;p&gt;See: https://jekyllrb.com/philosophy&lt;/p&gt;
-
-&lt;h2 id=&quot;having-trouble&quot;&gt;Having trouble?&lt;/h2&gt;
-
-&lt;p&gt;See: https://jekyllrb.com/docs/troubleshooting/&lt;/p&gt;
-
-&lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot;&gt;Install&lt;/a&gt; the gem&lt;/li&gt;
-  &lt;li&gt;Read up about its &lt;a href=&quot;https://jekyllrb.com/docs/usage/&quot;&gt;Usage&lt;/a&gt; and &lt;a href=&quot;https://jekyllrb.com/docs/configuration/&quot;&gt;Configuration&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Take a gander at some existing &lt;a href=&quot;https://wiki.github.com/jekyll/jekyll/sites&quot;&gt;Sites&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jekyll/jekyll/fork&quot;&gt;Fork&lt;/a&gt; and &lt;a href=&quot;https://jekyllrb.com/docs/contributing/&quot;&gt;Contribute&lt;/a&gt; your own modifications&lt;/li&gt;
-  &lt;li&gt;Have questions? Check out our official forum community &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt; or &lt;a href=&quot;https://botbot.me/freenode/jekyll/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;#jekyll&lt;/code&gt; on irc.freenode.net&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;code-of-conduct&quot;&gt;Code of Conduct&lt;/h2&gt;
-
-&lt;p&gt;In order to have a more open and welcoming community, Jekyll adheres to a
-&lt;a href=&quot;CODE_OF_CONDUCT.markdown&quot;&gt;code of conduct&lt;/a&gt; adapted from the Ruby on Rails code of
-conduct.&lt;/p&gt;
-
-&lt;p&gt;Please adhere to this code of conduct in any interactions you have in the
-Jekyll community. It is strictly enforced on all official Jekyll
-repositories, websites, and resources. If you encounter someone violating
-these terms, please let a &lt;a href=&quot;https://github.com/orgs/jekyll/teams/affinity-team-captains/members&quot;&gt;team captain&lt;/a&gt; know and we will address it as soon as possible.&lt;/p&gt;
-
-&lt;h2 id=&quot;diving-in&quot;&gt;Diving In&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://import.jekyllrb.com/docs/home/&quot;&gt;Migrate&lt;/a&gt; from your previous system&lt;/li&gt;
-  &lt;li&gt;Learn how the &lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;YAML Front Matter&lt;/a&gt; works&lt;/li&gt;
-  &lt;li&gt;Put information on your site with &lt;a href=&quot;https://jekyllrb.com/docs/variables/&quot;&gt;Variables&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Customize the &lt;a href=&quot;https://jekyllrb.com/docs/permalinks/&quot;&gt;Permalinks&lt;/a&gt; your posts are generated with&lt;/li&gt;
-  &lt;li&gt;Use the built-in &lt;a href=&quot;https://jekyllrb.com/docs/templates/&quot;&gt;Liquid Extensions&lt;/a&gt; to make your life easier&lt;/li&gt;
-  &lt;li&gt;Use custom &lt;a href=&quot;https://jekyllrb.com/docs/plugins/&quot;&gt;Plugins&lt;/a&gt; to generate content specific to your site&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;See the &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/LICENSE&quot;&gt;LICENSE&lt;/a&gt; file.&lt;/p&gt;
-</description>
-				<pubDate>Tue, 05 Sep 2017 14:10:51 +0800</pubDate>
-				<link>http://localhost:5000/jekyll/2017/09/05/another-copy-of-the-reademe-of-jekyll.html</link>
-				<guid isPermaLink="true">http://localhost:5000/jekyll/2017/09/05/another-copy-of-the-reademe-of-jekyll.html</guid>
-			</item>
-		
-			<item>
-				<title>test</title>
-				<description>&lt;p&gt;随着最近几大肺部图像处理相关的竞赛的推出，如LUNA16、Kaggle Data Science Bowl，AI领域的科研人员对肺部CT图像变得越来越熟悉，尤其是DICOM序列，以及这些竞赛官方所提供的mhd数据格式。
-ITK是一个功能很强大的医学图像处理公开库，搭配VTK用以显示图像，可以实现几乎所有医学图像处理的功能需要。ITK通常以C++包进行提供，当然也可以自己编译为Python包，不过编译过程比较繁琐耗时，而且很容易踩坑。但ITK官方进行的Python封装SimpleITK，则直接可以拿来使用；虽然有部分ITK的功能没有包含，但已基本够用了。我们在处理医学图像时，使用的基本都是SimpleITK。&lt;/p&gt;
-</description>
-				<pubDate>Wed, 10 May 2017 14:10:51 +0800</pubDate>
-				<link>http://localhost:5000/test/2017/05/10/test.html</link>
-				<guid isPermaLink="true">http://localhost:5000/test/2017/05/10/test.html</guid>
-			</item>
-		
-			<item>
-				<title>test2</title>
-				<description>&lt;p&gt;随着最近几大肺部图像处理相关的竞赛的推出，如LUNA16、Kaggle Data Science Bowl，AI领域的科研人员对肺部CT图像变得越来越熟悉，尤其是DICOM序列，以及这些竞赛官方所提供的mhd数据格式。
-ITK是一个功能很强大的医学图像处理公开库，搭配VTK用以显示图像，可以实现几乎所有医学图像处理的功能需要。ITK通常以C++包进行提供，当然也可以自己编译为Python包，不过编译过程比较繁琐耗时，而且很容易踩坑。但ITK官方进行的Python封装SimpleITK，则直接可以拿来使用；虽然有部分ITK的功能没有包含，但已基本够用了。我们在处理医学图像时，使用的基本都是SimpleITK。&lt;/p&gt;
-</description>
-				<pubDate>Wed, 10 May 2017 14:10:51 +0800</pubDate>
-				<link>http://localhost:5000/test/2017/05/10/test-(copy).html</link>
-				<guid isPermaLink="true">http://localhost:5000/test/2017/05/10/test-(copy).html</guid>
+				<pubDate>Sun, 05 Mar 2017 14:10:51 +0800</pubDate>
+				<link>http://localhost:5000/buyizhiyou/2017/03/05/welcome-to-buyizhiyou.html</link>
+				<guid isPermaLink="true">http://localhost:5000/buyizhiyou/2017/03/05/welcome-to-buyizhiyou.html</guid>
 			</item>
 		
 	</channel>

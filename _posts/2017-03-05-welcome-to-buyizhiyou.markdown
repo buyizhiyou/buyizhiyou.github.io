@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to buyizhiyou!"
-date:   2017-09-05 14:10:51 +0800
+date:   2017-03-05 14:10:51 +0800
 categories: buyizhiyou
 tags: buyizhiyou
 description: A simple example post page generate by buyizhiyou.
