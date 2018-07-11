@@ -3,6 +3,11 @@ layout: default
 ---
 {% assign trans = site.data.values[site.lan] %}
 <div class="well article">
+        <!--Add music player-->
+        {% if page.musicid %}
+        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id={{page.musicid}}&auto=1&height=66"></iframe>
+        {% endif %}
+
         <h2><a href="{{ site.baseurl}}{{ page.url }}">{{ page.title }}</a></h2>
         <span class="post-date">
             {% assign date_format = site.date_format.title %}
