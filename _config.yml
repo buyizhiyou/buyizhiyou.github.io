@@ -1,34 +1,27 @@
-title: 风丶停息了吗
-description: > # this means to ignore newlines until "baseurl:"
-  buyizhiyou's on the breeze.
-permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+# Jekyll configuration
 
-# Author Settings
-author: buyizhiyou # add your name
-author-img: weilai.jpg # add your photo
-about-author:  Algorithmic Engineer In Image And DeepLearning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: buyizhiyou # add your Github handle
-social-email: buyizhiyou@gmail.com# add your Email address
+name: buyizhiyou
+description: Welcome to buyizhiyou！
 
-# Disqus
-discus-identifier: buyizhiyou # add your discus identifier
+url:
+# baseurl will often be '', but for a project page on gh-pages, it needs to
+# be the project name.
+# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
+#     run it like so: jekyll serve --baseurl=''
+baseurl: ''
+## default date_format
+date_format: 
+  title: "%B-%-d-%Y"
+  archive: "%b"
+  categories: "%b-%Y"
+  tag: "%b-%Y"
+# Language
+lan: "en" 
 
-# Tracker
-analytics: # Google Analytics
+paginate: 10
 
-# Build Settings
+highlighter: rouge
 markdown: kramdown
-plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jemoji
+gems: ['jekyll-paginate']
 
-paginate: 8
-paginate_path: "/page/:num"
-
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+exclude: ['README.md', 'LICENSE', "*.bak"]

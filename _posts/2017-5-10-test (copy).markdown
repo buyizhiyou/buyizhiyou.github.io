@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "test2"
+date:   2017-05-10 14:10:51 +0800
+categories: test
+tags: test
+description: test of Jekyll.
+---
+随着最近几大肺部图像处理相关的竞赛的推出，如LUNA16、Kaggle Data Science Bowl，AI领域的科研人员对肺部CT图像变得越来越熟悉，尤其是DICOM序列，以及这些竞赛官方所提供的mhd数据格式。
+ITK是一个功能很强大的医学图像处理公开库，搭配VTK用以显示图像，可以实现几乎所有医学图像处理的功能需要。ITK通常以C++包进行提供，当然也可以自己编译为Python包，不过编译过程比较繁琐耗时，而且很容易踩坑。但ITK官方进行的Python封装SimpleITK，则直接可以拿来使用；虽然有部分ITK的功能没有包含，但已基本够用了。我们在处理医学图像时，使用的基本都是SimpleITK。
