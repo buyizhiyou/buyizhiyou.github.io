@@ -23,7 +23,7 @@ github_username:  buyizhiyou
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
