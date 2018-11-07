@@ -4,7 +4,7 @@ title:  "Gone with the wind"
 date:   2017-11-21 19:10:25 +0800
 categories: acgnmm
 tags: movie
-description: I saw an old movie.
+description: an old movie.
 ---
 改编自玛格丽特·米切尔小说《飘》  
 费雯·丽  　  
