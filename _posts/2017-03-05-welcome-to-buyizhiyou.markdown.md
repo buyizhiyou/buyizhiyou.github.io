@@ -1,8 +1,8 @@
 ---
-description: 'A simple example post page generate by buyizhiyou.'
-layout: post
-musicid: 375364
 title: 'Welcome to buyizhiyou!'
+layout: post
+tags: []
+category: 
 ---
 # Welcome!!!
 
