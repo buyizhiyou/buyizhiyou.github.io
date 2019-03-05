@@ -1,5 +1,5 @@
 ---
-musicid:428116980
+music-id:428116980
 title: Stormheim
 layout: post
 tags:
