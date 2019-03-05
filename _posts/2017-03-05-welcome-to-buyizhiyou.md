@@ -1,5 +1,5 @@
 ---
-musicid: 1781895
+musicid: 26989255
 title: 'Welcome to buyizhiyou!'
 layout: post
 tags: []
